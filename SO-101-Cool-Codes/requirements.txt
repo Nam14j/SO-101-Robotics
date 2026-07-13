@@ -1,4 +1,5 @@
-torch
-lerobot
-numpy
-ikpy
+# Core dependencies for the SO-101 robotics examples
+numpy>=1.26.0
+torch>=2.2.0
+ikpy>=3.0.0
+lerobot>=0.1.0

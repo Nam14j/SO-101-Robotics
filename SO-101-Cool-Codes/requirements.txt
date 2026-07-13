@@ -1,2 +1,4 @@
 torch
 lerobot
+numpy
+ikpy
